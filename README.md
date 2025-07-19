@@ -1,4 +1,7 @@
-# 👋 Hola, soy Juan David Rivaldo Díaz Sierra
+<!-- Banner o imagen de cabecera -->
+<p align="center">
+  <img src="https://github.com/judari09/judari09/blob/main/1751041906683.jpg" alt="Banner de presentación" width="100%" />
+</p>
 
 **Ingeniero Electrónico | Desarrollador en IA, Visión por Computadora, Machine Learning y Automatización**
 
