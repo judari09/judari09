@@ -67,7 +67,7 @@ Incluye soporte técnico especializado, integración de hardware y documentació
 
 ### 📫 Conecta conmigo
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/juan-david-rivaldo-diaz-sierra-72aa99222/) *(Agrega tu enlace si lo tienes)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/juan-david-rivaldo-diaz-sierra-72aa99222/)
 - 📂 Explora mis repositorios y proyectos aquí en GitHub
 
 ---
