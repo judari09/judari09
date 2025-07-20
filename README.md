@@ -34,7 +34,8 @@ Además, me encanta compartir el conocimiento, por eso he trabajado como tutor y
 #### 🦾 Robot serial tipo SCARA (2024)
 Prototipo funcional de robot SCARA para aplicaciones **pick-and-place**, desarrollado como trabajo de grado.  
 Incluye modelado 3D, control con Arduino, y una interfaz gráfica HMI.  
-📎[ver documento](https://hdl.handle.net/20.500.12313/4655) Presentado en la Semana de Investigación Universitaria 2024.
+Presentado en la Semana de Investigación Universitaria 2024. 
+[ver documento](https://hdl.handle.net/20.500.12313/4655)
 
 #### 📐 WorkAware (2025)
 Aplicación de escritorio multiplataforma desarrollada en **Python + Flet**, para la gestión de tareas y monitoreo de postura.  
