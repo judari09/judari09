@@ -1,79 +1,124 @@
-<!-- Banner o imagen de cabecera -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/judari09/judari09/blob/main/1751041906683.jpg" alt="Banner de presentación" width="100%" />
+  <img src="https://github.com/judari09/judari09/blob/main/Banner Para LinkedIn Desarrollador De Software Moderno Negro.png" alt="Banner" width="100%" />
 </p>
 
-**Ingeniero Electrónico | Desarrollador en IA, Visión por Computadora, Machine Learning y Automatización**
+<h2 align="center">👋 ¡Hola! Soy Juan — Desarrollador Python</h1>
 
-🎓 Estudiante de Ingeniería Electrónica en la Universidad de Ibagué (2020 – 2025)  
-📍 Ibagué, Tolima, Colombia  
-📧 juandavidrivaldo1@gmail.com  
-📞 +57 318 729 1080
-
----
-
-### 💡 Sobre mí
-
-Soy un apasionado por la tecnología y el desarrollo de soluciones innovadoras que integren **inteligencia artificial**, **visión por computadora**, **machine learning** y **automatización**. Me especializo en el diseño y construcción de sistemas que combinan hardware y software, con experiencia práctica en robótica, detección de fraudes mediante IA y proyectos educativos con impacto social.  
-Además, me encanta compartir el conocimiento, por eso he trabajado como tutor y formador en diferentes áreas de la electrónica.
+<p align="justify">
+  Construyo soluciones <b>end-to-end</b> con Python: APIs, visión por computadora, IA y aplicaciones de escritorio.  
+  <br>Apasionado por la arquitectura limpia, automatización e interfaces modernas.
+</p>
 
 ---
 
-### 🧠 Áreas de interés
+## 🧩 Tecnologías Principales
 
-- Inteligencia Artificial y Machine Learning
-- Visión por Computadora (YOLO, OpenCV, MediaPipe)
-- Automatización de procesos industriales
-- Robótica y Sistemas Embebidos
-- Desarrollo de APIs y aplicaciones con Python + FastAPI/Flet
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+<p align="justify">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MediaPipe-FFCC00?style=for-the-badge&logo=google&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flet-0099FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
 
 ---
 
-### 🚀 Proyectos Destacados
+## 🚀 Sobre mí
 
-#### 🦾 Robot serial tipo SCARA (2024)
-Prototipo funcional de robot SCARA para aplicaciones **pick-and-place**, desarrollado como trabajo de grado.  
-Incluye modelado 3D, control con Arduino, y una interfaz gráfica HMI.  
-Presentado en la Semana de Investigación Universitaria 2024. 
-[Ver documento](https://hdl.handle.net/20.500.12313/4655)
+Soy un **Desarrollador Python** enfocado en crear aplicaciones completas, desde el backend hasta la interfaz, integrando **Inteligencia Artificial, Visión por Computadora, APIs eficientes y Arquitecturas de Software modernas**.
 
-#### 📐 WorkAware (2025)
-Aplicación de escritorio multiplataforma desarrollada en **Python + Flet**, para la gestión de tareas y monitoreo de postura.  
-Integra SQLite, notificaciones automáticas y una interfaz moderna responsive.
+Disfruto diseñar sistemas limpios, escalables y mantenibles. Me gustan los retos que combinan:
 
-#### 🕹️ Game Body (2022)
-Sistema de control de videojuegos clásicos usando **gestos corporales**, basado en Python, MediaPipe y OpenCV.
+- Backend con **FastAPI**
+- Vision por computadora en tiempo real
+- Machine Learning
+- Apps de escritorio modernas con **Flet**
+- Automatización e IA aplicada
+- Diseño modular y arquitectura limpia
 
----
-
-### ⚙️ Tecnologías y Herramientas
-
-**Lenguajes:** Python, C++, Java  
-**IA & Visión:** TensorFlow, YOLO, Scikit-Learn, OpenCV, MediaPipe  
-**Backend:** FastAPI, SQLite, MySQL, MongoDB  
-**Control de versiones:** Git, GitHub, Bitbucket  
-**Hardware:** Arduino, Impresoras 3D, Osciloscopios, Protoboards  
-**Diseño:** Proteus, Eagle, SolidWorks, MATLAB  
-**Otros:** Flet, Postman, VS Code, SCRUM
+Mi objetivo es dominar completamente un stack sólido en Python para construir productos de extremo a extremo, funcionales y con impacto real.
 
 ---
 
-### 📌 Última experiencia profesional
+## 🌟 Proyectos Destacados
 
-**Ingeniero en Formación – Supervisa S.A.S.**  
-Desarrollo de sistemas con IA y visión por computadora para seguridad electrónica y **automatización de básculas** con detección de fraude.  
-Incluye soporte técnico especializado, integración de hardware y documentación técnica.
-
----
-
-### 📫 Conecta conmigo
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/juan-david-rivaldo-diaz-sierra-72aa99222/)
-- 📂 Explora mis repositorios y proyectos aquí en GitHub
+### 🧠 **VisionCare (2025)**
+Sistema de detección de postura y fatiga en tiempo real.  
+✔ FastAPI + Flet  
+✔ Overlays visuales  
+✔ Reportes y métricas  
+✔ Arquitectura modular
 
 ---
 
-**¡Gracias por visitar mi perfil!**  
-*Siempre dispuesto a aprender, colaborar y construir soluciones que impacten positivamente al mundo.*
+### 🗂️ **WorkAware (2025)**
+App de productividad + monitoreo de postura.  
+✔ Python + Flet  
+✔ SQLite  
+✔ Sistema de notificaciones  
+✔ Diseño UI responsivo
 
+---
 
+### 🎮 **Game Body (2022)**
+Control de videojuegos mediante gestos corporales.  
+✔ OpenCV + MediaPipe  
+✔ Procesamiento en tiempo real  
+✔ Interacción sin control físico
+
+---
+
+## 🧠 Actualmente enfocado en:
+
+- Backend profesional con **FastAPI**
+- Clean Architecture, modularidad y SOLID  
+- Dashboards y aplicaciones con Flet  
+- Integración de IA en sistemas reales  
+- Vision por computadora avanzada  
+- Proyectos end-to-end completos en Python  
+
+---
+
+## 👨‍💻 Experiencia Profesional
+
+**Supervisa S.A.S — Desarrollador de Software e IA**  
+Desarrollo de soluciones de IA y visión computacional para seguridad y automatización industrial.  
+Incluye detección de fraude, procesamiento de imágenes, integración de hardware y documentación técnica.
+
+---
+
+## 📬 Conecta conmigo
+
+<p align="center">
+<a href="https://www.linkedin.com/in/juan-david-rivaldo-diaz-sierra-72aa99222/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:juandavidrivaldo1@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+  <b>¡Gracias por visitar mi perfil! 🚀</b><br>
+  Siempre aprendiendo, construyendo y creando soluciones con impacto real.
+</p>
