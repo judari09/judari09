@@ -65,16 +65,12 @@ Sistema de detección de postura y fatiga en tiempo real.
 ✔ Reportes y métricas  
 ✔ Arquitectura modular
 
----
-
 ### 🗂️ **WorkAware (2025)**
 App de productividad + monitoreo de postura.  
 ✔ Python + Flet  
 ✔ SQLite  
 ✔ Sistema de notificaciones  
 ✔ Diseño UI responsivo
-
----
 
 ### 🎮 **Game Body (2022)**
 Control de videojuegos mediante gestos corporales.  
