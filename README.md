@@ -106,6 +106,10 @@ Incluye detección de fraude, procesamiento de imágenes, integración de hardwa
 
 ## 📬 Conecta conmigo
 
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/juan-david-rivaldo-diaz-sierra-72aa99222/  
+- 📧 **Email:** juandavidrivaldo1@gmail.com  
+- 📂 **Explore my projects right here on GitHub!**
+  
 <p align="center">
 <a href="https://www.linkedin.com/in/juan-david-rivaldo-diaz-sierra-72aa99222/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
